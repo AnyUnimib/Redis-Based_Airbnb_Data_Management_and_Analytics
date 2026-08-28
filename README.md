@@ -1,4 +1,4 @@
-# Redis-Based Airbnb Data Management & Analytics — New York City
+# Redis-Based Airbnb Data Management & Analytics for New York City
 
 **Any Das**
 
